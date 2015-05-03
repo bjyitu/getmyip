@@ -1,0 +1,2 @@
+0  */4  *  *  *  python /home/joy/getmyip.py
+0  */1  *  *  *  ping -c 3 www.baidu.com > pingbaidu.txt 
